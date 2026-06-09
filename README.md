@@ -102,8 +102,8 @@ An AI-powered virtual coach designed to help users strengthen communication, emo
 
 
 ## Connect With Me
-- **LinkedIn:** [natalia-vargas-dev-ai](www.linkedin.com/in/natalia-vargas-dev-ai)
-- **Email:** [](nataliav0517@gmail.com)
+- **LinkedIn:** [linkedin.com/in/natalia-vargas-dev-ai](www.linkedin.com/in/natalia-vargas-dev-ai)
+- **Email:** [nataliav0517@gmail.com](nataliav0517@gmail.com)
 - **Location:** Medellín, Colombia 🇨🇴
 
 ---
