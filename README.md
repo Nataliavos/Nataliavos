@@ -1,5 +1,5 @@
 
-# ¡Hi! I'm Natalia Vargas 👋
+# Hi, I'm Natalia Vargas 👋
 
 ### Full Stack Developer | AI Automation | Social Worker
 
