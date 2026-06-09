@@ -96,11 +96,6 @@ An AI-powered virtual coach designed to help users strengthen communication, emo
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nataliavos_GITHUB&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_Nataliavos_GITHUB&layout=compact)
-
-
 ## Connect With Me
 - **LinkedIn:** [linkedin.com/in/natalia-vargas-dev-ai](www.linkedin.com/in/natalia-vargas-dev-ai)
 - **Email:** [nataliav0517@gmail.com](nataliav0517@gmail.com)
