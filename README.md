@@ -50,7 +50,7 @@ Comprehensive platform designed to digitize operations for a Driver Recognition 
 - **Tech Stack:** TypeScript • PostgreSQL • Supabase • Calendly
 - **Role:** FullStack Developer
 - **Status:** Production
-- [🔗] (https://www.crcsoacha.com/)
+- [🔗 Live Demo](https://www.crcsoacha.com/)
 
 ### 2. SCLAPP – Commercial Lead Automation Platform
 Intelligent platform for tracking and analyzing technology job opportunities in real time.
@@ -61,7 +61,7 @@ Intelligent platform for tracking and analyzing technology job opportunities in 
 - **Tech Stack:** JavaScript, Python, Web Scraping, PostgreSQL, Supabase, Vercel, OpenAI API.
 - **Rolex:** Tech Lead | Backend Developer
 - **Achievement:** Top 5 Integrative Project among 30 teams at Riwi.
-- [🔗](https://github.com/Riwi-io-Medellin/sclapp-integrative-project-hamilton.git)
+- [🔗 Repository](https://github.com/Riwi-io-Medellin/sclapp-integrative-project-hamilton.git)
 
 
 ---
@@ -80,7 +80,7 @@ An AI-powered virtual coach designed to help users strengthen communication, emo
 - **Impacto:** Creación de planes de acción personalizados basados en interacciones del usuario.
 - **Tech Stack:** Python • n8n • PostgreSQL • Supabase • D-ID
 - **Role:** Backend Developer
-- [🔗](https://github.com/Alice-ai-project/Alice-soft-skills.git)
+- [🔗 Repository](https://github.com/Alice-ai-project/Alice-soft-skills.git)
 
 ---
 
@@ -102,8 +102,8 @@ An AI-powered virtual coach designed to help users strengthen communication, emo
 
 
 ## Connect With Me
-- **LinkedIn:** [tu-usuario](www.linkedin.com/in/natalia-vargas-dev-ai)
-- **Email:** [nataliav0517@gmail.com]
+- **LinkedIn:** [natalia-vargas-dev-ai](www.linkedin.com/in/natalia-vargas-dev-ai)
+- **Email:** [](nataliav0517@gmail.com)
 - **Location:** Medellín, Colombia 🇨🇴
 
 ---
