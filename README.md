@@ -1,7 +1,7 @@
 
 # Hi, I'm Natalia Vargas 👋
 
-### Full Stack Developer | AI Automation | Social Worker
+### Full Stack Developer | Digital Solutions & AI Automation
 
 I'm a Full Stack Developer focused on building web applications, automating processes with AI, and solving real business problems through technology.
 
