@@ -1,74 +1,119 @@
 
-# ¡Hola! Soy Natalia 👋
+# ¡Hi! I'm Natalia Vargas 👋
 
-### Full Stack Developer | Especialista en Soluciones Digitales & Automatización
+### Full Stack Developer | AI Automation | Social Worker
 
-Me dedico a construir aplicaciones web robustas y a optimizar procesos mediante el uso de tecnología e inteligencia artificial. Mi enfoque combina la lógica técnica con una visión orientada a resolver problemas reales de negocio y mejorar la experiencia del usuario.
+I'm a Full Stack Developer focused on building web applications, automating processes with AI, and solving real business problems through technology.
+
+My background in Social Work gives me a user-centered perspective that complements my technical skills in software development.
+
+Currently, I'm expanding my expertise in AI Automation and LLM-powered applications.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Technologies & Tools
 
 ### Backend & Databases
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3EC988?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Frontend
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Infraestructura & Otros
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Infrastructure
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![N8N](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+
 
 ---
 
-## 🚀 Proyectos Destacados
+## Featured Projects
 
-### 1. Sistema de Gestión para Centro Médico (CRC)
-Plataforma integral para la digitalización de un centro de reconocimiento de conductores. 
-- **Impacto:** Automatización de agenda de turnos y descarga de resultados médicos.
-- **Stack:** Python, PostgreSQL, Supabase.
-- [🔗 Ver Repositorio](tu-link-aqui)
+### 1. Medical Center Management System
+Comprehensive platform designed to digitize operations for a Driver Recognition Center. 
+- **Impact:**
+  Automated appointment scheduling
+  Medical certificate management
+  Improved operational efficiency
+- **Tech Stack:** TypeScript • PostgreSQL • Supabase • Calendly
+- **Role:** FullStack Developer
+- **Status:** Production
+- [🔗] (https://www.crcsoacha.com/)
 
-### 2. SCLAPP - Automatización de Leads Comerciales
-Herramienta inteligente para el rastreo y análisis de vacantes tecnológicas en tiempo real.
-- **Impacto:** Generación de métricas de demanda de mercado para toma de decisiones.
-- **Stack:** JavaScript, Web Scraping, Vercel.
-- [🔗 Ver Repositorio](tu-link-aqui)
+### 2. SCLAPP – Commercial Lead Automation Platform
+Intelligent platform for tracking and analyzing technology job opportunities in real time.
+- **Impact:**
+  Market demand analytics
+  Automated data collection
+  Decision-making support
+- **Tech Stack:** JavaScript, Python, Web Scraping, PostgreSQL, Supabase, Vercel, OpenAI API.
+- **Rolex:** Tech Lead | Backend Developer
+- **Achievement:** Top 5 Integrative Project among 30 teams at Riwi.
+- [🔗](https://github.com/Riwi-io-Medellin/sclapp-integrative-project-hamilton.git)
 
-### 3. Clasificador Inteligente de Email
-Workflow de automatización que procesa correos entrantes y los categoriza automáticamente.
-- **Impacto:** Optimización del flujo de atención al cliente reduciendo tiempos de respuesta manual.
-- **Stack:** n8n, OpenAI API, Gmail API.
-- [🔗 Ver Repositorio](tu-link-aqui)
 
-### 4. Tutor de Soft Skills con IA
-Asistente virtual con avatar 3D para el entrenamiento de habilidades profesionales.
+---
+
+## Currently Building
+
+### AI Soft Skills Tutor
+An AI-powered virtual coach designed to help users strengthen communication, emotional intelligence, and professional soft skills through interactive conversations.
+**Current Features**
+- Baseline behavioral and soft skills assessment through PDA and DISC methodologies
+- Personalized action plans generated by AI
+- Conversation analysis
+- Workflow automation with n8n
+- Avatar-based interaction
+- PostgreSQL data management
 - **Impacto:** Creación de planes de acción personalizados basados en interacciones del usuario.
-- **Stack:** TypeScript, Integración de IA, SPA Architecture.
-- [🔗 Ver Repositorio](tu-link-aqui)
+- **Tech Stack:** Python • n8n • PostgreSQL • Supabase • D-ID
+- **Role:** Backend Developer
+- [🔗](https://github.com/Alice-ai-project/Alice-soft-skills.git)
 
 ---
 
-## 🎯 En qué estoy trabajando ahora
+## Currently Learning
 
-Actualmente estoy profundizando mis conocimientos en **Automatización con IA (AI Automation)**:
-- 🤖 Implementación de flujos de trabajo complejos con **n8n**.
-- 🧠 Integración de modelos de lenguaje (LLMs) para tareas de clasificación y generación de contenido.
-- ⚡ Optimización de procesos operativos mediante agentes de IA.
+- Node.js
+- Express.js
+- AI Automation
+- LangChain
+- RAG Architectures
+- LLM APIs
+- Docker
+
+---
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact)
+
+
+## Connect With Me
+- **LinkedIn:** [tu-usuario](www.linkedin.com/in/natalia-vargas-dev-ai)
+- **Email:** [nataliav0517@gmail.com]
+- **Location:** Medellín, Colombia 🇨🇴
 
 ---
 
-## 📫 Contacto
-- **LinkedIn:** [tu-usuario](tu-link)
-- **Email:** [tu-correo@ejemplo.com]
-- **Ubicación:** Medellín, Colombia 🇨🇴
+## 💡 About Me
+
+I enjoy creating technology solutions that generate measurable value for organizations and improve user experiences.
+
+My combination of software development and social work allows me to approach challenges from both a technical and human-centered perspective.
 
 ---
-*“Transformando código en soluciones que generan valor.”*
+
+> "Transforming code into solutions that create real value"
