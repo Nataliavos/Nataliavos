@@ -2,8 +2,9 @@
 
 ### Full Stack Developer | Digital Solutions & AI Automation
 
+---
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently building AI-powered data extraction and automation solutions with Python and Playwright<br><br>🌱 I’m learning LangChain, agentic AI systems, workflow automation, and LLM engineering<br><br>👯 I’m looking to collaborate on AI-driven products, intelligent automation, and software solutions with real business impact<br><br>🤝 I’m open to contributing to projects involving RAG, LLMs, AI agents, OpenAI API integrations, and backend development<br><br>💬 Ask me about Python, AI Agents, RAG pipelines, LLM applications, web scraping, automation, and software architecture<br><br>⚡ Fun fact: I combine a social-science background with software engineering to better understand users, requirements, and real-world business challenges
 
 ---
