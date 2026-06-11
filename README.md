@@ -1,14 +1,10 @@
-
-[![](https://komarev.com/ghpvc/?username=Nataliavos&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # Hi, I'm Natalia Vargas 👋
 
 ### Full Stack Developer | Digital Solutions & AI Automation
 
+
 # 💫 About Me:
 🔭 I’m currently building AI-powered data extraction and automation solutions with Python and Playwright<br><br>🌱 I’m learning LangChain, agentic AI systems, workflow automation, and LLM engineering<br><br>👯 I’m looking to collaborate on AI-driven products, intelligent automation, and software solutions with real business impact<br><br>🤝 I’m open to contributing to projects involving RAG, LLMs, AI agents, OpenAI API integrations, and backend development<br><br>💬 Ask me about Python, AI Agents, RAG pipelines, LLM applications, web scraping, automation, and software architecture<br><br>⚡ Fun fact: I combine a social-science background with software engineering to better understand users, requirements, and real-world business challenges
-
 
 ---
 
@@ -64,7 +60,6 @@ Intelligent platform for tracking and analyzing technology job opportunities in 
 - **Achievement:** Top 5 Integrative Project among 30 teams at Riwi.
 - [🔗 Repository](https://github.com/Riwi-io-Medellin/sclapp-integrative-project-hamilton.git)
 
-
 ---
 
 ## Currently Building
@@ -85,31 +80,11 @@ An AI-powered virtual coach designed to help users strengthen communication, emo
 
 ---
 
-## Currently Learning
-
-- Node.js
-- Express.js
-- AI Automation
-- LangChain
-- RAG Architectures
-- LLM APIs
-- Docker
-
----
-
 ## 🌐 Connect With Me
 - **LinkedIn:** [linkedin.com/in/natalia-vargas-dev-ai](www.linkedin.com/in/natalia-vargas-dev-ai)
 - **Email:** [nataliav0517@gmail.com](nataliav0517@gmail.com)
 - **Location:** Medellín, Colombia 🇨🇴
-
----
-
-## 💡 About Me
-
-I enjoy creating technology solutions that generate measurable value for organizations and improve user experiences.
-
-My combination of software development and social work allows me to approach challenges from both a technical and human-centered perspective.
-
+- 
 ---
 
 > "Transforming code into solutions that create real value"
